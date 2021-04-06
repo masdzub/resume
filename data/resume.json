@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Dzubayyan Ahmad",
+    "label": "Technical Support Specialist",
+    "image": "https://pbs.twimg.com/profile_images/1330570668618915842/251GiJ3x_400x400.jpg",
+    "email": "masdzub@gmail.com",
+    "phone": "+62 881 08 000 81 80",
+    "website": "https://masdzub.com.com",
+    "summary": "Technical Support Specialist, Half Sysadmin",
+    "location": {
+      "countryCode": "ID",
+      "address": "Semarang, Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "karimhossenbux",
+        "url": "https://www.linkedin.com/in/masdzub/"
+      },
+      {
+        "network": "Twitter",
+        "username": "masdzub",
+        "url": "https://twitter.com/masdzub"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DomaiNesia",
+      "endDate": "",
+      "highlights": [],
+      "position": "Technical Support Specialist",
+      "startDate": "2019/03",
+      "summary": "Render technical advice, support and assistance to various organizations and consumers for technical and software problems, Also deal with end-users directly and effectively communicate answers in an understandable manner.",
+      "website": "https://domainesia.com"
+    },
+    {
+      "company": "Manage Server Indonesia",
+      "endDate": "2021/02",
+      "highlights": [],
+      "position": "System Administrator",
+      "startDate": "2020/04",
+      "summary": "Manage and maintenance server infrastructure and our server client.",
+      "website": "https://manageserver.id"
+    },
+    {
+      "company": "Teras Code Digital",
+      "endDate": "2019/06",
+      "highlights": [],
+      "position": "Linux System Administrator",
+      "startDate": "2018/07",
+      "summary": "Managed daily activities to include user support and system administration task, Managed the day to day IT troubleshooting for users both locally and remotely.",
+      "website": "https://terascode.com"
+    },
+    {
+      "company": "Teras Code Digital",
+      "endDate": "2019/06",
+      "highlights": [],
+      "position": "Training Development Staff",
+      "startDate": "2018/04",
+      "summary": "Identify training and development needs within an organisation through job analysis, appraisal schemes and regular consultation with business managers and human resources departments.",
+      "website": "https://terascode.com/"
+    },
+    {
+      "company": "University of Amikom Yogyakarta",
+      "endDate": "2018/07",
+      "highlights": [],
+      "position": "Assistant Lecture",
+      "startDate": "2017/09",
+      "summary": "Supervise the work of students, provide advice on study skills and help them with learning pro, Teach as a member of a teaching team within an established programme of study.",
+      "website": "https://amikom.ac.id"
+    },
+    {
+      "company": "Albatross Photography",
+      "endDate": "2016/09",
+      "highlights": [],
+      "position": "Photographer",
+      "startDate": "2016/04",
+      "summary": "Take photos of clients or objects in studio environments.",
+      "website": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "WordCamp 2015",
+      "position": "Photograph",
+      "website": "",
+      "startDate": "2015-04-30",
+      "endDate": "2015-04-30",
+      "summary": null,
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Amikom Yogyakarta",
+      "area": "Informatics Engineering",
+      "studyType": "Computer Science",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": "3.77",
+      "courses": []
+    },
+    {
+      "institution": "SMK Negeri 1 Boyolali",
+      "area": "Computer and Network Engineering",
+      "studyType": "Computer Science",
+      "startDate": "2013",
+      "endDate": "2016",
+      "gpa": "36,6",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["Linux Server", "CMS Wordpress", "Networking", "Webserver"],
+      "level": "Senior",
+      "name": "Basic"
+    },
+    {
+      "keywords": ["Ansible", "Bash", "Python", "Docker", "PHP", "NodeJS", "NuxtJS"],
+      "level": "Senior",
+      "name": "Automation and Scripting"
+    },
+    {
+      "keywords": ["Photoshop", "Word Office", "Power Point"],
+      "level": "Senior",
+      "name": "Extra"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesia",
+      "flag": "",
+      "fluency": "Native"
+    },
+    {
+      "language": "Javanese",
+      "flag": "",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "flag": "🇺🇸",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Podcast"
+    },
+    {
+      "name": "Kdrama"
+    },
+    {
+      "name": "Anime"
+    },
+    {
+      "name": "video game"
+    },
+    {
+      "name": "Blogging"
+    },
+    {
+      "name": "Reading"
+    }
+  ]
+}

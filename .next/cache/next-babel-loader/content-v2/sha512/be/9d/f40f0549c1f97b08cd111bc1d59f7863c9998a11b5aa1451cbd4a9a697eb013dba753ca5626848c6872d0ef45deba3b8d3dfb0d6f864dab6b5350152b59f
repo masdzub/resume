@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var getResume = function getResume() {\n  var resume = require('../data/resume.json');\n\n  return resume;\n};","map":null,"metadata":{},"sourceType":"module"}
