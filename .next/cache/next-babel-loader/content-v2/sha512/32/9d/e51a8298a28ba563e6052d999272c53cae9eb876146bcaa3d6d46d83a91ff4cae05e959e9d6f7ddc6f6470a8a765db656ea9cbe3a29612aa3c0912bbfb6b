@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const getResume = () => {\n  const resume = require('../data/resume.json');\n\n  return resume;\n};","map":null,"metadata":{},"sourceType":"module"}
