@@ -25,6 +25,11 @@ npm run start
 yarn start
 ```
 
+If you want to export fully static page : 
+```bash
+npm run export
+```
+
 Open [http://localhost:6996](http://localhost:6996) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
